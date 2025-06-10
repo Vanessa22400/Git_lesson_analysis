@@ -1,3 +1,5 @@
+## Edições no README:
+
 # Heading1 (titulo principal)
 ## Heading2
 ### Heading3
@@ -13,6 +15,7 @@
 
 ![txt p aparecer no lugar de imagen se n carregar](https://github.com/user-attachments/assets/dc247643-1c8a-4f0a-961e-556e9a67a809)
 
+## Intruções 
 ### Writing a README
 * Need to be descriptive
   > Anyone should understand our project
@@ -35,3 +38,11 @@
 * What problem it hopes to solve
 * What the intended use is
 * Credits
+
+## Repositorios
+
+### Criar um novo diretório:
+* precisa da criação de um file dentro do novo diretório, é comum criar README.md file, se usa /
+* ex: criar References diretory:
+* References/README.md
+  
